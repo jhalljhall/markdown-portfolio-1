@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![It's a cat!](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
